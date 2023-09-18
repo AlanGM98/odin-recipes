@@ -1,0 +1,16 @@
+h1.home {
+    color: #ffa600;
+}
+
+h1.pages, h3 {
+    background-color: #ffa600;
+}
+
+* {
+    font-family: "Times New Roman", sans-serif;
+}
+
+img.pages {
+    height: 563px;
+    width: 750px;
+}
